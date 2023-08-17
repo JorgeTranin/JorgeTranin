@@ -11,9 +11,7 @@
     <a href="https://github.com/JorgeTranin" style="margin-right: 14px;">
         <img src="https://streak-stats.demolab.com/?user=JorgeTranin&theme=vue&background=FFF&border=30A3DC&dates=000" height="180em">
     </a>
-    <a href="https://github.com/JorgeTranin">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeTranin&layout=compact&theme=vue&hide_border=true" height="180em">
-    </a>
+   
     
 </div><br>
 
