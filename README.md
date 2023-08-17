@@ -4,15 +4,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&width=435&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Jorge;Sou+Bacharel+em+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Este+%C3%A9+meu+portf%C3%B3lio+no+GitHub)](https://git.io/typing-svg)
 
 <div align="center">
-    <a href="https://jorgetranin.github.io/Site-Portfolio-Antonio-Jorge/" target="_blank"><img src="https://img.shields.io/badge/PORTFÓLIO_DE_PROJETOS_[AQUI]-FF0000?style=for-the-badge&logo=markdown" target="_blank"></a>
+    <a href="https://jorgetranin.github.io/Site-Portfolio-Antonio-Jorge/" target="_blank"><img src="https://img.shields.io/badge/PORTFÓLIO_DE_PROJETOS_[AQUI]-FF0000?style=for-the-badge&logo=" target="_blank"></a>
 </div><br/>
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/JorgeTranin" style="margin-right: 14px;">
         <img src="https://streak-stats.demolab.com/?user=JorgeTranin&theme=vue&background=FFF&border=30A3DC&dates=000" height="180em">
     </a>
-   
-    
 </div><br>
 
 <div align="center">
@@ -21,38 +19,47 @@
     <a href="https://www.dio.me/users/jorgetraninportfolio" target="_blank"><img src="https://img.shields.io/badge/PERFIL_DIO-FF?style=for-the-badge&logo=" target="_blank"></a>
 </div><br/>
 
-### <center>  Principais tecnologias:
-<div align="center" style="display: inline_block; background-color: #f0f0f0; padding: 10px;"  >
-    <img width=6% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-plain-wordmark.svg" />
-    <img width=6% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" />
-    <img width=6% src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" />
-    <img width=6% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" />
-    <img width=6% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
-    <img width=6% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-plain.svg" />
-    <img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+##
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<div align="center" style="background-color: white;">
+<h3 style="font-size: 20px; padding: 10px;"> Principais tecnologias </h3>
+</div>
+<div align="center" style="display: inline_block; padding: 2px;"  >
+    <img width=5% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-plain-wordmark.svg" />
+    <img width=5% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" />
+    <img width=5% src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" />
+    <img width=5% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" />
+    <img width=5% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
+    <img width=5% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-plain.svg" />
+    <img width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
 ##
+##
 
-### <center> Tecnologias que já tive contato:
+<div align="center" style="background-color: white;">
+<h3 style="font-size: 20px; padding: 10px;"> Tercnologia que já tive contato </h3>
+</div>
 
-<div align="center" style="display: inline_block; background-color: #f0f0f0; padding: 10px;">
-    <img width=6% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-plain-wordmark.svg" />
-    <img width=6% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" />
-    <img width=6% src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" />
-    <img width=6% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" />
-    <img width=6% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
-    <img width=6% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-plain.svg" />
-    <img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-    <img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-    <img width=6% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width=6% src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" />
-<img width=6% src="" />
+
+<div align="center" style="display: inline_block; padding: 10px;">
+    <img width=5% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/android/android-plain-wordmark.svg" />
+    <img width=5% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" />
+    <img width=5% src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" />
+    <img width=5% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-plain.svg" />
+    <img width=5% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />
+    <img width=5% src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/androidstudio/androidstudio-plain.svg" />
+    <img width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+    <img width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+    <img width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img width=5% src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" />
+<img width=5% src="" />
 </div>
-<div align="center" style="background-color: white; ">
-<h3 style="font-size: 24px; padding: 10px;"> PROJETOS </h3>
-</div>
+
+<h3 style="font-size: 20px; padding: 10px;"> PROJETOS </h3>
 
 ### Apps de Cadastro de Visitantes para um Associação de Moradores
 
