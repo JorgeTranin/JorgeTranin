@@ -65,17 +65,18 @@
 
 <div style="display: flex; flex-wrap: wrap; align-items: center;  gap: 20px; width: 50%; margin-left: 0%;">
 
-<a href="https://github.com/JorgeTranin/AppAMVCM/tree/main/app">
+<a href="https://github.com/JorgeTranin/App-AMVCM-Mapia-2023">
     <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JorgeTranin&repo=AppAMVCM&hide_border=true&bg_color=1F222E&title_color=3BEFF7&icon_color=30A3DC&theme=react&show_icons=true" alt="Docker-ProjetoDIO-TS-Market">
 </a>
 </div>
 
 #### Projeto em construção e melhorias
 
-**Descrição do projeto:** Projeto para atender uma demanda da associação de moradores da Vila Céu do Mapia, que se resume em precisar cadastrar visitantes ao chegarem no local.
+**Descrição do projeto:** Projeto para atender uma demanda da associação de moradores da Vila Céu do Mapia, que se resume em precisar cadastrar visitantes ao chegarem no local e um cadastro de visitas, listagem de visitanstes e visitas.
 
-- Tecnologias e mecanismos utilizadas: Android Studio, Kotlin, Firebase, arquitetura MVVM, RecyrclerView, adapter.
-- Link do projeto: [https://github.com/JorgeTranin/AppAMVCM](https://github.com/JorgeTranin/AppAMVCM)
+- Tecnologias e mecanismos utilizadas:
+-  MVVM (View - ViewModel - Model), Clean Architecture, Android Studio, Kotlin, Firebase, Jetpack, LiveData, padrao de repository, Git, GitHub.
+- Link do projeto: [https://github.com/JorgeTranin/App-AMVCM-Mapia-2023]([https://github.com/JorgeTranin/AppAMVCM](https://github.com/JorgeTranin/App-AMVCM-Mapia-2023))
 
 ### Outros Projetos Android
 
