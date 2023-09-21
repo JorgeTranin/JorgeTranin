@@ -66,7 +66,7 @@
 <div style="display: flex; flex-wrap: wrap; align-items: center;  gap: 20px; width: 50%; margin-left: 0%;">
 
 <a href="https://github.com/JorgeTranin/App-AMVCM-Mapia-2023">
-    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JorgeTranin&repo=AppAMVCM&hide_border=true&bg_color=1F222E&title_color=3BEFF7&icon_color=30A3DC&theme=react&show_icons=true" alt="Docker-ProjetoDIO-TS-Market">
+    <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=JorgeTranin&repo=App-AMVCM-Mapia-2023&hide_border=true&bg_color=1F222E&title_color=3BEFF7&icon_color=30A3DC&theme=react&show_icons=true" alt="Docker-ProjetoDIO-TS-Market">
 </a>
 </div>
 
