@@ -32,27 +32,24 @@
 <div style="display: flex;">
     <div style="text-align: center;margin-right: 10px;width: 20%">
         <h5>App AMVCM</h5>
-         <a href="https://play.google.com/store/apps/details?id=com.amvcm.app_amvcm_mapia_2023&pcampaignid=web_share">
-            <img src="./images/AppAMVCM.png" alt="Logo 1">
-        </a>
+         <a href="https://play.google.com/store/apps/details?id=com.amvcm.app_amvcm_mapia_2023&pcampaignid=web_share"> 
+        <img src="./images/AppAMVCM.png" width="20%" alt="Head 2 Head App"/>  </a> 
     </div>
     <div style="width: 19%; text-align: center;margin-right: 10px; ">
         <h5>PetJournal</h5>
-            <a href="https://github.com/PetJournal">
-                <img src="./images/petjournal.png" alt="Logo 2">
-            </a>
+        <a href="https://github.com/PetJournal"> 
+        <img src="./images/petjournal.png" width="20%" alt="Head 2 Head App"/>  </a> 
     </div>
     <div style="width: 23%; text-align: center;margin-right: 10px;">
         <h5>Connectattoo</h5>
-            <a href="https://github.com/connectattoo">
-                <img src="./images/connectattoo.png" alt="Logo 2">
-            </a>
+        <a href="https://github.com/connectattoo"> 
+        <img src="./images/connectattoo.png" width="20%" alt="Head 2 Head App"/>  </a> 
     </div>
 </div>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##  Linguagens e tecnologias:
+## Linguagens e tecnologias:
 
 ![Firebase](https://camo.githubusercontent.com/7496cfdbd8d515dccc2784fb8b956b051de305b1778933ed3583498a3f2d5c49/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e64726f69642d3035313232413f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d677265656e)
 ![Kotlin](https://camo.githubusercontent.com/968a68a7cae182e63153a50439b08ec1fb3ae8e30c1b0141911084bf7b02fd26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4b6f746c696e2d3035313232413f7374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e)
@@ -72,14 +69,11 @@
 ![Firebase](https://img.shields.io/badge/Python-05122A?style=for-the-badge&logo=python&logoColor=blue)
 ![Firebase](https://img.shields.io/badge/Wordpress-05122A?style=for-the-badge&logo=wordpress&logoColor=white)
 
-
-
 ##
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Mais Detalhes sobre Projetos desenvolvidos:
-
 
 #### Aplicativo de Controle de Visitantes - Vila Céu do Mapia
 
@@ -128,9 +122,6 @@ O aplicativo está em constante evolução, adaptando-se às demandas do cliente
 atualizada.
 
 ##
-
-
-
 
 ### Outros Projetos Android
 
@@ -222,8 +213,6 @@ aprender desde o zero com os melhores especialistas no tema ao mesmo tempo que s
 contratação na everis, empresa multinacional com sede em Madri, líder em soluções tecnológicas.
 
 ### Santander Bootcamp Mobile Developer pela DIO
-
-
 
 </details>
 
