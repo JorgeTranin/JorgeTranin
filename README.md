@@ -30,19 +30,19 @@
 ## 🚀 Projetos Recentes:
 
 <div style="display: flex;">
-    <div style="flex: 0.2; text-align: center;margin-right: 10px;">
+    <div style="text-align: center;margin-right: 10px;width: 20%">
         <h5>App AMVCM</h5>
          <a href="https://play.google.com/store/apps/details?id=com.amvcm.app_amvcm_mapia_2023&pcampaignid=web_share">
             <img src="./images/AppAMVCM.png" alt="Logo 1">
         </a>
     </div>
-    <div style="flex: 0.19; text-align: center;margin-right: 10px; ">
+    <div style="width: 19%; text-align: center;margin-right: 10px; ">
         <h5>PetJournal</h5>
             <a href="https://github.com/PetJournal">
                 <img src="./images/petjournal.png" alt="Logo 2">
             </a>
     </div>
-    <div style="flex: 0.23; text-align: center;margin-right: 10px;">
+    <div style="width: 23%; text-align: center;margin-right: 10px;">
         <h5>Connectattoo</h5>
             <a href="https://github.com/connectattoo">
                 <img src="./images/connectattoo.png" alt="Logo 2">
