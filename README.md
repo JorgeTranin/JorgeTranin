@@ -28,24 +28,18 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Projetos Recentes:
-
-<div style="display: flex;">
-    <div style="text-align: center;margin-right: 10px;width: 20%">
-        <h5>App AMVCM</h5>
-         <a href="https://play.google.com/store/apps/details?id=com.amvcm.app_amvcm_mapia_2023&pcampaignid=web_share"> 
-        <img src="./images/AppAMVCM.png" width="20%" alt="Head 2 Head App"/>  </a> 
-    </div>
-    <div style="width: 19%; text-align: center;margin-right: 10px; ">
-        <h5>PetJournal</h5>
-        <a href="https://github.com/PetJournal"> 
-        <img src="./images/petjournal.png" width="20%" alt="Head 2 Head App"/>  </a> 
-    </div>
-    <div style="width: 23%; text-align: center;margin-right: 10px;">
-        <h5>Connectattoo</h5>
-        <a href="https://github.com/connectattoo"> 
-        <img src="./images/connectattoo.png" width="20%" alt="Head 2 Head App"/>  </a> 
-    </div>
-</div>
+<a href="https://play.google.com/store/apps/details?id=com.amvcm.app_amvcm_mapia_2023&pcampaignid=web_share"> 
+            <img src="./images/AppAMVCM.png" width="20%" alt="App AMVCM"/>  
+        </a> 
+    
+<a href="https://github.com/PetJournal"> 
+            <img src="./images/petjournal.png" width="19%" alt="PetJournal"/>  
+        </a> 
+    
+<a href="https://github.com/connectattoo"> 
+            <img src="./images/connectattoo.png" width="23%" alt="Connectattoo"/>  
+        </a> 
+    
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
