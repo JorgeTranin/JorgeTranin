@@ -14,7 +14,7 @@
     <a href = "mailto:antoniotraninjorge@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/antonio-jorge-garcia-tranin-1566b91a2/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://www.dio.me/users/jorgetraninportfolio" target="_blank"><img src="https://img.shields.io/badge/PERFIL_DIO-FF?style=for-the-badge&logo=" target="_blank"></a>
-    <a href="https://jorgetranin.github.io/Site-Portfolio-Antonio-Jorge/" target="_blank"><img src="https://img.shields.io/badge/CURRÍCULO[AQUI]-FF0000?style=for-the-badge&logo=" target="_blank"></a>
+    <a href="https://jorgetranin.github.io/Portfolio-Jorge-Garcia/" target="_blank"><img src="https://img.shields.io/badge/Portfólio de projetos[AQUI]-FF0000?style=for-the-badge&logo=" target="_blank"></a>
     <p >
       <a href="https://play.google.com/store/search?q=Jorgetranin&c=apps" target="_blank">
         <img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" width="20%" alt="Download no Google Play">
