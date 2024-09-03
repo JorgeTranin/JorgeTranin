@@ -5,7 +5,7 @@
 
 ## 👋 Sobre:
 
-    Desde de 2022 integrei-me ao cenário mobile, após minha formação em ciência da computação em 2019.
+    Desde 2022 integrei-me ao cenário mobile, após minha formação em ciência da computação em 2019.
     Estou com 2 anos de experiência e já atuei em alguns projetos tanto em trabalhos freelancer como trabalhos
     voluntários utilizando Kotlin, MVVM, Clean Code, SOLID, Scrum, Kanban, FIrebase, JetPack, Compose,
     Coroutines ,Flow, Hilt, Koin, Material Designer, GIT, Jira, Expresso, Testes Unitários com JUnit e Mockito
