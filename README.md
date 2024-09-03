@@ -5,10 +5,8 @@
 
 ## 👋 Sobre:
 
-    Desde 2022 integrei-me ao cenário mobile, após minha formação em ciência da computação em 2019.
-    Estou com 2 anos de experiência e já atuei em alguns projetos tanto em trabalhos freelancer como trabalhos
-    voluntários utilizando Kotlin, MVVM, Clean Code, SOLID, Scrum, Kanban, FIrebase, JetPack, Compose,
-    Coroutines ,Flow, Hilt, Koin, Material Designer, GIT, Jira, Expresso, Testes Unitários com JUnit e Mockito
+   Desenvolvedor Mobile com 2 anos de experiência em projetos freelancer e voluntários, com conhecimento em desenvolvimento Android utilizando Kotlin e Java seguindo padrões de          arquitetura como MVVM. Experiência em boas práticas de programação como Clean Code e princípios SOLID. Familiaridade com metodologias ágeis (Scrum, Kanban).
+
 
 ## ✨Contato:
 
