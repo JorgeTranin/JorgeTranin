@@ -5,7 +5,7 @@
 
 ## 👋 Sobre:
 
-   Desenvolvedor Mobile com 2 anos de experiência em projetos freelancer e voluntários, com conhecimento em desenvolvimento Android utilizando Kotlin e Java seguindo padrões de          arquitetura como MVVM. Experiência em boas práticas de programação como Clean Code e princípios SOLID. Familiaridade com metodologias ágeis (Scrum, Kanban).
+   Desenvolvedor Mobile com 3 anos e meio de experiência em projetos freelancer e voluntários, com conhecimento em desenvolvimento Android utilizando Kotlin e Java seguindo padrões de arquitetura como MVVM. Experiência em boas práticas de programação como Clean Code e princípios SOLID. Familiaridade com metodologias ágeis (Scrum, Kanban).
 
 
 ## ✨Contato:
@@ -28,6 +28,9 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🚀 Projetos Recentes:
+<a href="https://play.google.com/store/apps/details?id=com.jorge.estoquefeitio&pcampaignid=web_share"> 
+            <img src="./images/baixa.png" width="20%" alt="App Controle de estoque Feitio"/>  
+        </a> 
 <a href="https://play.google.com/store/apps/details?id=com.amvcm.app_amvcm_mapia_2023&pcampaignid=web_share"> 
             <img src="./images/AppAMVCM.png" width="20%" alt="App AMVCM"/>  
         </a> 
@@ -62,6 +65,54 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Mais Detalhes sobre Projetos desenvolvidos:
+
+#### Aplicativo de Controle de Estoque do Feitio - Vila Céu do Mapia
+
+<p >
+  <a href="https://play.google.com/store/apps/details?id=com.jorge.estoquefeitio&pcampaignid=web_share" target="_blank">
+    <img src="https://cdn.rawgit.com/steverichey/google-play-badge-svg/master/img/fr_get.svg" width="20%" alt="Download no Google Play">
+  </a>
+</p>
+
+#### Visão Geral
+
+Liderança no desenvolvimento de um aplicativo personalizado com arquiteturas **Clean + MVVM**, integração ao **Firebase
+** para cadastro de feitios e seus registros.
+
+Atualmente tenho alguns clientes que fazem o controle de suas casinhas de feitios a partir do app. com geração de relatórios e planilhas automatizadas.
+
+#### Funcionalidades Destacadas
+
+- Cadastro de Vasilhames: Registre e organize todos os seus vasilhames de forma prática, com detalhes como descrição, quantidade e imagens.
+- Monitoramento em Tempo Real: Acompanhe o nível de estoque e visualize rapidamente as quantidades disponíveis.
+- Geração de QR Codes: Crie QR Codes para cada vasilhame, facilitando a identificação e o controle de inventário.
+- Registro de Saídas: Registre saídas de produtos com facilidade, mantendo um histórico detalhado das transações.
+- Baixa de Estoque por QR Code: Utilize o QR Code para realizar baixas de estoque de maneira rápida e precisa.
+- Leitor de QR Code Integrado: Faça a leitura de QR Codes diretamente no app, simplificando o processo de controle.
+- Geração de Relatórios: Gere relatórios completos sobre o status do estoque e histórico de movimentações, ajudando na tomada de decisões estratégicas.
+
+
+#### Acesso Restrito
+
+O aplicativo, atualmente disponível na loja, é de acesso restrito aos usuarios que fazem parte da administração ou adquirem um acesso para uso. Ele tem sido aprimorado de forma
+contínua, ajustando-se conforme as necessidades do cliente, garantindo uma solução sempre atualizada.
+
+#### Tecnologias Utilizadas
+
+- **Kotlin**
+- **Clean + MVVM**
+- **Firebase**
+- **Firebase - Crashlytics**
+- **Git/Github**
+- **Jetpack**
+- **LiveData**
+- **State Flow**
+- **Hilt**
+- **Coroutines**
+
+#### Status Atual
+
+O aplicativo está em constante evolução, adaptando-se às demandas do cliente e mantendo-se como uma solução robusta e atualizada.
 
 #### Aplicativo de Controle de Visitantes - Vila Céu do Mapia
 
@@ -106,8 +157,7 @@ contínua, ajustando-se conforme as necessidades do cliente, garantindo uma solu
 
 #### Status Atual
 
-O aplicativo está em constante evolução, adaptando-se às demandas do cliente e mantendo-se como uma solução robusta e
-atualizada.
+O aplicativo está em constante evolução, adaptando-se às demandas do cliente e mantendo-se como uma solução robusta e atualizada.
 
 ##
 
